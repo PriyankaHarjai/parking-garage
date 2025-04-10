@@ -1,6 +1,7 @@
 # parking-garage
 Parking garage provides services to park and unpark the vehicle based on availability
 1) Requirements:
+   
 Functional Requirements:
 Vehicle entry/exit - there can be many ways -licence plate read and note its time of entry and exit and bill accordingly or on entry can be issued ticket and on exit accordingly bill
 Bill on exit

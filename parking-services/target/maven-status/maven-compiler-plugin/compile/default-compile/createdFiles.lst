@@ -1,0 +1,16 @@
+org\example\model\User.class
+org\example\services\ParkingService.class
+org\example\model\ParkingSpotDTO.class
+org\example\model\ParkingTicket.class
+org\example\model\VehicleType.class
+org\example\controllers\ParkingController.class
+org\example\mappers\ParkingDTOMappers.class
+org\example\model\Payment.class
+org\example\model\Vehicle.class
+org\example\model\ParkingSpot.class
+org\example\repository\ParkingSpotRepository.class
+org\example\repository\VehicleRepository.class
+org\example\repository\ParkingTicketRepository.class
+org\example\model\ParkingTicketDTO.class
+org\example\Main.class
+org\example\model\NotificationDTO.class

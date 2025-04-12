@@ -1,0 +1,16 @@
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\controllers\ParkingController.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\Main.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\mappers\ParkingDTOMappers.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\NotificationDTO.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\ParkingSpot.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\ParkingSpotDTO.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\ParkingTicket.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\ParkingTicketDTO.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\Payment.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\User.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\Vehicle.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\model\VehicleType.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\repository\ParkingSpotRepository.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\repository\ParkingTicketRepository.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\repository\VehicleRepository.java
+C:\Users\priya\IdeaProjects\parking-garage\parking-services\src\main\java\org\example\services\ParkingService.java
